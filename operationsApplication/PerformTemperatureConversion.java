@@ -9,7 +9,7 @@ public class PerformTemperatureConversion{
         System.out.println("Temperature Converter");
         System.out.println("1. Celsius to Fahrenheit");
         System.out.println("2. Fahrenheit to Celsius");
-        System.out.println("Select an option (1 or 2: ");
+        System.out.println("Select an option (1 or 2): ");
 
         String choice = scanner.nextLine();
 
